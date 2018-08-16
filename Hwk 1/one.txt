@@ -1,0 +1,10 @@
+Andrew Jackson 129 33 38 30 506
+Jeremy Warden 25 24 3 9 493
+Jared Welch 130 1 43 27 422
+Brandon Splitter 138 38 40 7 587
+Joe Gwilliams 150 23 30 25 498
+Ali Mohammed 119 43 13 6 598
+Dheeraj Johnson 124 79 59 36 506
+Bill Clinton 121 65 12 26 449
+Jesse James 87 58 8 5 464
+John Doe 129 100 0 12 548
